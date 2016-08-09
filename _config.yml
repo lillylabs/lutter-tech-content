@@ -28,11 +28,11 @@ defaults:
     type: oslohistorier
   values:
     stops:
-      - title: 
+    - title: 
     coords:
       lat: 
       lng: 
     audio_file: 
     description: 
-    featured_image:
+    featured_image: 
 permalink: pretty
