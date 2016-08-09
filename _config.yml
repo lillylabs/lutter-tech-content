@@ -29,10 +29,10 @@ defaults:
   values:
     stops:
     - title: 
-    coords:
-      lat: 
-      lng: 
-    audio_file: 
-    description: 
-    featured_image: 
+      coords:
+        lat: 
+        lng: 
+      audio_file: 
+      description: 
+      featured_image: 
 permalink: pretty
