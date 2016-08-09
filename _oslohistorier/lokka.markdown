@@ -1,7 +1,7 @@
 ---
 title: En historisk tur fra sentrum til Torshov
 date: 2016-08-09 08:47:00 Z
-Stops:
+stops:
 - title: Er Storgata vakker?
   coords:
     lat: 59.9137503

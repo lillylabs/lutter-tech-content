@@ -23,4 +23,16 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: oslohistorier
+  values:
+    stops:
+      - title: 
+    coords:
+      lat: 
+      lng: 
+    audio_file: 
+    description: 
+    featured_image:
 permalink: pretty
