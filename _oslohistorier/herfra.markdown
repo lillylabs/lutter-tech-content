@@ -3,23 +3,14 @@ title: Herfra
 date: 2016-08-09 12:56:00 Z
 article:
 - title: 
-  coords:
-    lat: 
-    lng: 
+  featured_image: 
+  description: 
   audio:
   - file: 
     description: 
-  description: 
-  featured_image: 
-- title: 
-  coords:
-    lat: 
-    lng: 
-  description: 
-  featured_image: 
-  audio:
-  - file: 
-    description: 
+    Key: 
+  text: 
+  image: 
 ---
 
 Hvor hører du til?
