@@ -8,10 +8,12 @@ article:
   audio:
   - file: 
     description: 
-    lat: 
-    lng: 
-  text: 
-  image: 
+    Coords:
+      lat: 
+      lng: 
+  article_text:
+    text: 
+    image: 
 ---
 
 Hvor hører du til?
