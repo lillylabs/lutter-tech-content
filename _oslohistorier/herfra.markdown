@@ -8,7 +8,8 @@ article:
   audio:
   - file: 
     description: 
-    Key: 
+    lat: 
+    lng: 
   text: 
   image: 
 ---
