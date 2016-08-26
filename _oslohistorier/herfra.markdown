@@ -11,9 +11,7 @@ article:
   audio:
   - file: 
     description: 
-    Coords:
-      lat: 
-      lng: 
+    Coords: 59.932944, 10.882063
   article_text:
     text: |-
       Hvor delt er egentlig Oslo? Delt nok til at man kan vokse opp i samme by og føle at man er fra to forskjellige byer? Når Delillos synger om å gå brisen hjem via Bygdøy Allé rister de på hodet på Tveita? Og stirrer de forlegent på skotuppene oppe på Vinderen når Kenneth Engebretsen rapper om at junkiene på Haugenstua spiser rå kjøttdeig?
@@ -67,8 +65,9 @@ article:
     image: 
   audio:
   - description: Dødsrallingen ved slakteriet
-    image: "/uploads/Herfra_Lakkegata.jpg"
-    file: 
+    image:
+    - "/uploads/Herfra_Lakkegata.jpg"
+    caption: 'Foto: Anders Wilse, Oslo Museum'
     Coords: 59.917657, 1.762727
   - description: Brann!
     image:
