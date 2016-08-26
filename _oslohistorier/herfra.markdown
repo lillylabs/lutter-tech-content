@@ -1,18 +1,18 @@
 ---
 title: Herfra
 date: 2016-08-09 12:56:00 Z
-article:
+articles:
 - title: Møtes i sentrum?
   author: Johan Lie Hammerstrøm
   featured_image: 
-  description: "Er Oslo virkelig «den delte byen» eller finnes det en altoppslukende
-    «Oslo-ånd» som holder byen samlet? En statisk vestkant møter en bevegelig og søkende
-    østkant. \n"
-  audio:
-  - file: 
+  teaser: "Er Oslo virkelig «den delte byen» eller finnes det en altoppslukende «Oslo-ånd»
+    som holder byen samlet? En statisk vestkant møter en bevegelig og søkende østkant.
+    \n"
+  locations:
+  - audio_file: 
     description: 
-    Coords: 59.932944, 10.882063
-  article_text:
+    coords: 
+  content:
     text: |-
       Hvor delt er egentlig Oslo? Delt nok til at man kan vokse opp i samme by og føle at man er fra to forskjellige byer? Når Delillos synger om å gå brisen hjem via Bygdøy Allé rister de på hodet på Tveita? Og stirrer de forlegent på skotuppene oppe på Vinderen når Kenneth Engebretsen rapper om at junkiene på Haugenstua spiser rå kjøttdeig?
       –   Noen har et veldig sterkt forhold til om de er fra Oslo Øst eller Oslo Vest, men like mange har et problematisk forhold til det samme. Jeg tror tilhørigheten til Oslo trumfer det meste, man lærer seg så raskt å bruke hele byen, sier Øyvind Holen.
@@ -51,37 +51,39 @@ article:
       Så er man da samme Osloboer hvis man er fra vestkanten eller østkanten? Når det kommer til forskjeller som måles i inntekt og levealder er saken avgjort: Det skal mange Groruddalssatsinger til før vestkantens forsprang er i nærheten av innhentet. Dermed må vi tilbake til de mer esoteriske verdiene – er Oslo-ånden sterk nok til å glatte over skillene?
       Kristin Danielsen svarer nei, men Øyvind Holen mener det finnes noe der ute. Noe som er større og vakrere enn det hoverende bergensere og sutrete trøndere kan forstå når de prater om Oslo i nedsettende ordelag.
       –   Oslo-kjærligheten stikker dypere enn det folk kanskje tror, forskjellen er nok at mange også hater Oslo. Folk som bodde her litt og ikke taklet det. Jeg tror forskjellen fra Bergen og Trondheim er at det er mye lettere å bli Osloboer enn bergenser eller trønder. De mest ihuga Vålerenga-fansene viser seg jo som regel å være innflyttere, sier Holen og smiler.
-    image: 
+    image:
+      file: 
+      captions: 
 - title: Oslos tapte lyder
   featured_image: 
-  description: Arkitekt Alf Folmer vokste opp i Oslo på 20 og 30-tallet. Hør hans
-    beskrivelser av byens tapte lydlandskap.
-  article_text:
+  teaser: Arkitekt Alf Folmer vokste opp i Oslo på 20 og 30-tallet. Hør hans beskrivelser
+    av byens tapte lydlandskap.
+  content:
     text: "Alf Folmer er en norsk arkitekt født i 1921 og oppvokst ved Dælenenga idrettsplass
       på Grünerløkka på 1920-tallet. Han bor nå i Stockholm. Folmer har tidligere
       skrevet om byens luktlandskap, nå reiser han tilbake til byens tapte lydverden.
       \nTekstene er bydt på egne erfaringer og historiske kilder. De er redigert og
       lest av Askild Matre Aasarød."
     image: 
-  audio:
-  - description: Dødsrallingen ved slakteriet
+  locations:
+  - audio_file: 
+    coords: 59.917657, 1.762727
+    description: Dødsrallingen ved slakteriet
     image:
-    - "/uploads/Herfra_Lakkegata.jpg"
-    caption: 'Foto: Anders Wilse, Oslo Museum'
-    Coords: 59.917657, 1.762727
-  - description: Brann!
+      file: "/uploads/Herfra_Lakkegata.jpg"
+      caption: 
+  - audio_file: 
+    coords: 59.912686, 10.746474
+    description: Brann!
     image:
-    - "/uploads/Herfra_Brannvakter%20i%20Va%CC%8Ar%20frelsers%20kirke.jpeg"
-    - caption: |
-        Foto: Olaf Martin Peder Væring, Oslo Museum
-    file: 
-    Coords: 59.912686, 10.746474
-  - description: Skalpering og vevstolstøy
-    Image:
-    - "/uploads/Herfra_Hjula%20Veveri%20Sagveien%2023.jpeg"
-    - Caption: 'Foto: Norsk Teknisk Museum'
-    file: 
-    Coords: 59.931349, 10.756400
+      file: "/uploads/Herfra_Brannvakter%20i%20Va%CC%8Ar%20frelsers%20kirke.jpeg"
+      caption: 'Foto: Olaf Martin Peder Væring, Oslo Museum'
+  - audio_file: 
+    coords: 59.931349, 10.756400
+    description: Skalpering og vevstolstøy
+    image:
+    - file: "/uploads/Herfra_Hjula%20Veveri%20Sagveien%2023.jpeg"
+      caption: 'Foto: Norsk Teknisk Museum'
 ---
 
 *Hvor hører du til?*
