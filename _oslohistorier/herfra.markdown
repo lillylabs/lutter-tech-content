@@ -3,6 +3,7 @@ title: Herfra
 date: 2016-08-09 12:56:00 Z
 article:
 - title: Møtes i sentrum?
+  author: Johan Lie Hammerstrøm
   featured_image: 
   description: "Er Oslo virkelig «den delte byen» eller finnes det en altoppslukende
     «Oslo-ånd» som holder byen samlet? En statisk vestkant møter en bevegelig og søkende
@@ -60,14 +61,28 @@ article:
   article_text:
     text: "Alf Folmer er en norsk arkitekt født i 1921 og oppvokst ved Dælenenga idrettsplass
       på Grünerløkka på 1920-tallet. Han bor nå i Stockholm. Folmer har tidligere
-      skrevet om byens luktlandskap, nå reisre han tilbake til byens tapte lydverden.
+      skrevet om byens luktlandskap, nå reiser han tilbake til byens tapte lydverden.
       \nTekstene er bydt på egne erfaringer og historiske kilder. De er redigert og
       lest av Askild Matre Aasarød."
     image: 
   audio:
-  - file: 
-    description: Dødsrallingen ved slakteriet
+  - description: Dødsrallingen ved slakteriet
+    image: "/uploads/Herfra_Lakkegata.jpg"
+    file: 
     Coords: 59.917657, 1.762727
+  - description: Brann!
+    image:
+    - "/uploads/Herfra_Brannvakter%20i%20Va%CC%8Ar%20frelsers%20kirke.jpeg"
+    - caption: |
+        Foto: Olaf Martin Peder Væring, Oslo Museum
+    file: 
+    Coords: 59.912686, 10.746474
+  - description: Skalpering og vevstolstøy
+    Image:
+    - "/uploads/Herfra_Hjula%20Veveri%20Sagveien%2023.jpeg"
+    - Caption: 'Foto: Norsk Teknisk Museum'
+    file: 
+    Coords: 59.931349, 10.756400
 ---
 
 *Hvor hører du til?*
