@@ -55,16 +55,19 @@ article:
     image: 
 - title: Oslos tapte lyder
   featured_image: 
-  description: 
+  description: Arkitekt Alf Folmer vokste opp i Oslo på 20 og 30-tallet. Hør hans
+    beskrivelser av byens tapte lydlandskap.
+  article_text:
+    text: "Alf Folmer er en norsk arkitekt født i 1921 og oppvokst ved Dælenenga idrettsplass
+      på Grünerløkka på 1920-tallet. Han bor nå i Stockholm. Folmer har tidligere
+      skrevet om byens luktlandskap, nå reisre han tilbake til byens tapte lydverden.
+      \nTekstene er bydt på egne erfaringer og historiske kilder. De er redigert og
+      lest av Askild Matre Aasarød."
+    image: 
   audio:
   - file: 
-    description: 
-    Coords:
-      lat: 
-      lng: 
-  article_text:
-    text: 
-    image: 
+    description: Dødsrallingen ved slakteriet
+    Coords: 59.917657, 1.762727
 ---
 
 *Hvor hører du til?*
