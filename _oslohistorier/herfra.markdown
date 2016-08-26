@@ -53,7 +53,25 @@ article:
       Kristin Danielsen svarer nei, men Øyvind Holen mener det finnes noe der ute. Noe som er større og vakrere enn det hoverende bergensere og sutrete trøndere kan forstå når de prater om Oslo i nedsettende ordelag.
       –   Oslo-kjærligheten stikker dypere enn det folk kanskje tror, forskjellen er nok at mange også hater Oslo. Folk som bodde her litt og ikke taklet det. Jeg tror forskjellen fra Bergen og Trondheim er at det er mye lettere å bli Osloboer enn bergenser eller trønder. De mest ihuga Vålerenga-fansene viser seg jo som regel å være innflyttere, sier Holen og smiler.
     image: 
+- title: Oslos tapte lyder
+  featured_image: 
+  description: 
+  audio:
+  - file: 
+    description: 
+    Coords:
+      lat: 
+      lng: 
+  article_text:
+    text: 
+    image: 
 ---
 
-Hvor hører du til?
-KOTE lanserer HERFRA, et unikt samarbeid med Lutter øre og Lilly Labs. En stedsspesifikk undersøkelse av tilhørighet. Gjennom HERFRA opplever du byen på en helt ny måte. Lyd, tekst og bilde gir deg historier, refleksjoner og fortolkninger av steder og tilhørighet.
+*Hvor hører du til?*
+
+HERFRA er et kartfestet digitalt magasin om Oslo. Tekst, lyd og bilder gir refleksjoner og fortolkninger av steder og tilhørighet til hovedstaden.
+
+Prosjektet utforsker temaet tilhørighet gjennom undersøkelser av forskjellige Oslo-spesifikke situasjoner. Hvert punkt på kartet er knyttet til lyd eller tekst og gir en fortelling, betraktning eller bilde på opplevelsen av stedet du befinner deg.
+HERFRA er en skattejakt i Oslos gater der det digitale kartet forteller deg om det finnes en ny historie rundt neste sving.
+
+HERFRA er et samarbeid mellom [Magasinet KOTE](http://www.magasinetkote.no/), [Lutter øre](https://lutterore.com/) og [Lilly Labs](http://lillylabs.no/), og er utgitt som en del av [Oslo arkitekturtriennale 2016](http://oslotriennale.no/) sitt utvidet program.
